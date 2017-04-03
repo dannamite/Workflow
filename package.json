@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Workflow test with Gulp, Sass, NPM, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannamite/Workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Git",
+    "Gulp"
+  ],
+  "author": "Dan Boateng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannamite/Workflow/issues"
+  },
+  "homepage": "https://github.com/dannamite/Workflow#readme"
+}
